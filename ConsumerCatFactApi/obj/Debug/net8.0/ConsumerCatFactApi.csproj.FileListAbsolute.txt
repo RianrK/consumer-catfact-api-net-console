@@ -1,0 +1,14 @@
+C:\Users\riansantos\Documents\ConsumerCatFactApi\bin\Debug\net8.0\ConsumerCatFactApi.exe
+C:\Users\riansantos\Documents\ConsumerCatFactApi\bin\Debug\net8.0\ConsumerCatFactApi.deps.json
+C:\Users\riansantos\Documents\ConsumerCatFactApi\bin\Debug\net8.0\ConsumerCatFactApi.runtimeconfig.json
+C:\Users\riansantos\Documents\ConsumerCatFactApi\bin\Debug\net8.0\ConsumerCatFactApi.dll
+C:\Users\riansantos\Documents\ConsumerCatFactApi\bin\Debug\net8.0\ConsumerCatFactApi.pdb
+C:\Users\riansantos\Documents\ConsumerCatFactApi\obj\Debug\net8.0\ConsumerCatFactApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riansantos\Documents\ConsumerCatFactApi\obj\Debug\net8.0\ConsumerCatFactApi.AssemblyInfoInputs.cache
+C:\Users\riansantos\Documents\ConsumerCatFactApi\obj\Debug\net8.0\ConsumerCatFactApi.AssemblyInfo.cs
+C:\Users\riansantos\Documents\ConsumerCatFactApi\obj\Debug\net8.0\ConsumerCatFactApi.csproj.CoreCompileInputs.cache
+C:\Users\riansantos\Documents\ConsumerCatFactApi\obj\Debug\net8.0\ConsumerCatFactApi.dll
+C:\Users\riansantos\Documents\ConsumerCatFactApi\obj\Debug\net8.0\refint\ConsumerCatFactApi.dll
+C:\Users\riansantos\Documents\ConsumerCatFactApi\obj\Debug\net8.0\ConsumerCatFactApi.pdb
+C:\Users\riansantos\Documents\ConsumerCatFactApi\obj\Debug\net8.0\ConsumerCatFactApi.genruntimeconfig.cache
+C:\Users\riansantos\Documents\ConsumerCatFactApi\obj\Debug\net8.0\ref\ConsumerCatFactApi.dll
